@@ -1,4 +1,7 @@
 # Demo
-This is my First git repository
-Author- Nitin
-Add next line check the git
+This is my First git repository.
+<br>
+Author- Nitin.
+<br>
+Add next line check the git.
+
